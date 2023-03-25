@@ -6,7 +6,7 @@ I'm interested in this profession and looking for progress and learning more in 
 
  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="auto" align="center" >
  
- ## 🟡Skills : 
+ ## 🔹Skills : 
  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -18,7 +18,7 @@ I'm interested in this profession and looking for progress and learning more in 
  <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="20" />
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
  
-  ## 🔵Connect with me :
+  ##  🔹Connect with me :
   
 <a href="https://www.instagram.com/imkimiw/">
   <img align="left" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
