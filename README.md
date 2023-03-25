@@ -4,7 +4,7 @@
 *I have been working in the field of programming and web design for a year. I’m currently learning React, Redux And all the tools related to the front end field.
 I'm interested in this profession and looking for progress and learning more in this field.*
 
- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="auto" align="center" >
+ <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" align="center" >
  
  ## 🔹Skills : 
  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
