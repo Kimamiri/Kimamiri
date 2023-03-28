@@ -1,7 +1,7 @@
 # Hi Guys👋 I'm Kimia Amiri <img src="https://media.giphy.com/media/yW8gdZiUZPAIjrtY7F/giphy.gif" width="160">
 > Front-end Developer | WordPress Web Designer | UI Designer👩‍💻 
 
-*I have been working in the field of programming and web design for a year. I’m currently learning React, Redux And all the tools related to the front end field.
+*I have been working in the field of programming and web design for a year. I’m currently learning React, Redux and all the tools related to the frontend field.
 I'm interested in this profession and looking for progress and learning more in this field.*
 
  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" align="center" >
