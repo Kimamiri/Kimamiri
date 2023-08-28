@@ -1,4 +1,4 @@
-# ▫️ About Me:
+# 😊 About Me:
 Hi Guys👋 I'm Kimia Amiri<br>I have been working in the field of programming and web design for a year. <br>I’m currently learning React, Redux and all the tools related to the frontend field.<br>I'm interested in this profession and looking for progress and learning more in this field.
 
 
