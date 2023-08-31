@@ -1,4 +1,4 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF3466&width=435&separator=%3C&lines=Hello%2C+Welcome+To+My+page+;)%3CI'm+Kimia%2C+Junior+Front-end+Developer" alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF3466&width=435&separator=%3C&lines=Hello%2C+Welcome+To+My+page+;)%3CI'm+Kimia+Amiri%3C+Junior+Front-end+Developer" alt="Typing SVG" /></a>
 Hi Guys👋 I'm Kimia Amiri<br>I have been working in the field of programming and web design for a year. <br>I’m currently learning React, Redux and all the tools related to the frontend field.<br>I'm interested in this profession and looking for progress and learning more in this field.
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" align="center" >
